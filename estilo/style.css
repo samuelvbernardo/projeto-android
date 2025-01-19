@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url("/desafios/d010/fontes/idroid.otf") format('opentype');
+    src: url("../fontes/idroid.otf") format('opentype');
     font-weight: normal;
 }
 
